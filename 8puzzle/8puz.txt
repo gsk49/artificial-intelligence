@@ -1,0 +1,10 @@
+setState b12345678
+randomizeState 999
+move left
+move down
+move up
+move right
+solveA-star h1
+randomizeState 999
+maxNodes 1000
+solvebeam 5
